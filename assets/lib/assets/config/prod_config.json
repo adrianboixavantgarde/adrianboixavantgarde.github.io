@@ -1,0 +1,5 @@
+{
+    "authority" : "https://login.microsoftonline.com/e96fa72b-c8d6-4957-96bd-c7f8dc30cc88",
+    "clientId" : "79fed377-2dc3-4d6b-8e7a-077a4397d408",
+    "scopes" : ["api://79fed377-2dc3-4d6b-8e7a-077a4397d408/user_impersonation"]
+}
